@@ -29,6 +29,8 @@ A documentação mais importante está nos testes unitários. Se você não cons
 
 ## Direitos autorais e de licença
 
+This project is licensed under the terms of the MIT license.
+
 Este componente está sob a [licença MIT](https://github.com/gpupo/common-sdk/blob/master/LICENSE)
 
 Para a informação dos direitos autorais e de licença você deve ler o arquivo
@@ -63,6 +65,6 @@ Adicione o pacote [submarino-sdk](https://packagist.org/packages/gpupo/submarino
 ## Links
 
 
-* [Documentação oficial](https://skyhub.gelato.io/docs/versions/1.0)
+* [Documentação oficial](https://desenvolvedores.skyhub.com.br)
 * [Submarino-sdk Composer Package](https://packagist.org/packages/gpupo/submarino-sdk) no packagist.org
 * [Marketplace-bundle Composer Package](https://opensource.gpupo.com/MarkethubBundle/) - Integração deste pacote com Symfony 4
